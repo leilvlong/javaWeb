@@ -2,3 +2,5 @@
 *.properties
 *.xml
 *.iml
+/.idea
+/out
