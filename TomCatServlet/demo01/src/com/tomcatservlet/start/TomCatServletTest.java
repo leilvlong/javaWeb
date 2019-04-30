@@ -4,7 +4,7 @@ import javax.servlet.*;
 import javax.servlet.annotation.WebServlet;
 import java.io.IOException;
 
-@WebServlet("/test")
+@WebServlet("/tomcattest")
 public class TomCatServletTest implements Servlet {
     @Override
     public void init(ServletConfig servletConfig) throws ServletException {
